@@ -784,6 +784,13 @@
       "tags": ["synth", "random"]
     },
     {
+      "project_name": "lithops",
+      "project_url": "https://github.com/icerigger/lithops",
+      "author": "Midworld",
+      "description": "experimental tape player and probabilistic mangler",
+      "discussion_url": "https://llllllll.co/t/lithops/49831"
+    },
+    {
       "project_name": "loom",
       "project_url": "https://github.com/markwheeler/loom/",
       "author": "Mark Eats (markeats)",
